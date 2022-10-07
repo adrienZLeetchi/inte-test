@@ -17,9 +17,15 @@ liens utiles:
 
 A partir de la maquette figma, vous devrez concevoir et intégrer en CSS un ou plusieurs composants les plus réutilisable possible. (le style des éléments du dropdown est libre et non évalué).
 
+Ce dropdown doit contenir une liste de 2 items:
+- Rendre privée
+- Fermer cagnotte
+
 vous devez utiliser les données présentes dans le fichier: `./public/moneypot-data.json`
 
 Si possible utiliser la composition-api de vue 3 et typescript. TailwindCss est déjà installé sur le projet et vous pourrez l'utiliser si vous le souhaitez.
+
+Le titre du composant ne devra pas dépasser 3 lignes. le composant doit également être capable d'afficher un très grand nombres de participants
 
 
 ```
