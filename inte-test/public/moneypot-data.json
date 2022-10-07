@@ -1,0 +1,30 @@
+{
+	"error": null,
+	"data": {
+		"type": 1,
+		"category": 0,
+		"stateName": "Active",
+		"userRole": 0,
+		"title": "MoneyPot au top mon pote",
+		"description": "string",
+		"beneficiaryName": "string",
+		"hasAmountToReach": true,
+		"hasLimitDate": false,
+		"amountToReach": 3.5,
+		"limitDate": "9999-12-31T00:00:00",
+		"hasCustomPicture": false,
+		"pictureUrl": "https://res.cloudinary.com/leetchi-test/image/upload/v1655975459/cat%C3%A9gories%20moneyPots/charity/DefaultEntraide.png",
+		"isAmountCollectedToBeHidden": false,
+		"isContributionAmountToBeHidden": false,
+		"isRestrictedVisibility": false,
+		"collectedAmount": 139.0,
+		"isAmountCollectedHidden": false,
+		"countContribution": 5,
+		"remainingDays": 0,
+		"creatorAvatarUrl": "",
+		"creatorName": "Nicolas test",
+		"creatorIsProfilVerified": true,
+		"totalNews": 0,
+		"totalMessages": 1
+	}
+}
